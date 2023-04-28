@@ -1,0 +1,51 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "cb06b0b8-2ced-4af2-832e-3025899a8159"
+        },
+        {
+          "SchemaColumnUId": "03a27b75-6d7f-4be4-b0fd-f03ffd8a7aab",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "216b38f5-e2c3-462b-ae2e-1df80fc21b33",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "3bb9d182-ad73-4379-9d51-2003c862a90c",
+          "Value": "Schema__UsrRealtyFreedomUI_ListPage"
+        },
+        {
+          "SchemaColumnUId": "6851587b-0b7a-45cb-a5a5-31994420d81b",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "986fc9ee-72b2-4cc9-af5e-ed64af54d30f",
+          "Value": "eyJuYW1lIjoiQTI5QTNCQTUtNEIwRC1ERTExLTlBNTEtMDA1MDU2QzAwMDA4Iiwic2NoZW1hIjp7InZpZXdDb25maWdEaWZmIjpbeyJvcGVyYXRpb24iOiJtZXJnZSIsIm5hbWUiOiJEYXRhVGFibGUiLCJ2YWx1ZXMiOnsiY29sdW1ucyI6W3siaWQiOiJmMjUyZjU4MS0wY2NmLTQ0YWMtYjdjOS1jMDBkZjJhZDk5MTkiLCJjb2RlIjoiUERTX1Vzck5hbWUiLCJjYXB0aW9uIjoiI1Jlc291cmNlU3RyaW5nKFBEU19Vc3JOYW1lKSMiLCJkYXRhVmFsdWVUeXBlIjoxLCJ3aWR0aCI6MTkyfSx7ImlkIjoiMTNhNmM0ZDUtMWRhZS1kNjUzLTU1YjItNzQxNTg5N2VmYjlkIiwiY29kZSI6IlBEU19Vc3JQcmljZVVTRCIsInBhdGgiOiJVc3JQcmljZVVTRCIsImNhcHRpb24iOiIjUmVzb3VyY2VTdHJpbmcoUERTX1VzclByaWNlVVNEKSMiLCJkYXRhVmFsdWVUeXBlIjozMn0seyJpZCI6IjZmZDczNTAyLTM0NDItMGJkYS0zOGJlLTM1NWMyNDNlMzI1OCIsImNvZGUiOiJQRFNfVXNyQXJlYSIsInBhdGgiOiJVc3JBcmVhIiwiY2FwdGlvbiI6IiNSZXNvdXJjZVN0cmluZyhQRFNfVXNyQXJlYSkjIiwiZGF0YVZhbHVlVHlwZSI6MzJ9LHsiaWQiOiI2NzZlNDUyOC01ZWNiLWU3MjktNGQwMC1mYTFkOTZjMTk4YzkiLCJjb2RlIjoiUERTX1VzclR5cGUiLCJwYXRoIjoiVXNyVHlwZSIsImNhcHRpb24iOiIjUmVzb3VyY2VTdHJpbmcoUERTX1VzclR5cGUpIyIsImRhdGFWYWx1ZVR5cGUiOjEwLCJyZWZlcmVuY2VTY2hlbWFOYW1lIjoiVXNyUmVhbHR5VHlwZUZyZWVkb21VSSJ9LHsiaWQiOiJmYTUwOGE0Mi05ZDRjLWVkYmItMzIwMC00YmM1ZGYzZGMxMmIiLCJjb2RlIjoiUERTX1Vzck9mZmVyVHlwZSIsInBhdGgiOiJVc3JPZmZlclR5cGUiLCJjYXB0aW9uIjoiI1Jlc291cmNlU3RyaW5nKFBEU19Vc3JPZmZlclR5cGUpIyIsImRhdGFWYWx1ZVR5cGUiOjEwLCJyZWZlcmVuY2VTY2hlbWFOYW1lIjoiVXNyUmVhbHR5T2ZmZXJUeXBlRnJlZWRvbVVJIn0seyJpZCI6ImY4OGE0NzgzLWI1MDktZjE3Ny00YWQ0LTI0MTE5NDhmMjZmMSIsImNvZGUiOiJQRFNfVXNyTnVtYmVyIiwicGF0aCI6IlVzck51bWJlciIsImNhcHRpb24iOiIjUmVzb3VyY2VTdHJpbmcoUERTX1Vzck51bWJlcikjIiwiZGF0YVZhbHVlVHlwZSI6Mjd9LHsiaWQiOiJjODY4OWQ3OC04MGJhLTRlNzEtOGNmMi1mYTQ3OGUzYmU1YmMiLCJjb2RlIjoiUERTX0NyZWF0ZWRPbiIsImNhcHRpb24iOiIjUmVzb3VyY2VTdHJpbmcoUERTX0NyZWF0ZWRPbikjIiwiZGF0YVZhbHVlVHlwZSI6N31dfX1dLCJ2aWV3TW9kZWxDb25maWciOnsiYXR0cmlidXRlcyI6eyJJdGVtcyI6eyJ2aWV3TW9kZWxDb25maWciOnsiYXR0cmlidXRlcyI6eyJQRFNfVXNyUHJpY2VVU0QiOnsibW9kZWxDb25maWciOnsicGF0aCI6IlBEUy5Vc3JQcmljZVVTRCJ9fSwiUERTX1VzckFyZWEiOnsibW9kZWxDb25maWciOnsicGF0aCI6IlBEUy5Vc3JBcmVhIn19LCJQRFNfVXNyVHlwZSI6eyJtb2RlbENvbmZpZyI6eyJwYXRoIjoiUERTLlVzclR5cGUifX0sIlBEU19Vc3JPZmZlclR5cGUiOnsibW9kZWxDb25maWciOnsicGF0aCI6IlBEUy5Vc3JPZmZlclR5cGUifX0sIlBEU19Vc3JOdW1iZXIiOnsibW9kZWxDb25maWciOnsicGF0aCI6IlBEUy5Vc3JOdW1iZXIifX19fSwibW9kZWxDb25maWciOnsic29ydGluZ0NvbmZpZyI6eyJkZWZhdWx0IjpudWxsfX19LCJJdGVtc1NvcnRpbmciOnsidmFsdWUiOlt7ImRpcmVjdGlvbiI6ImRlc2MiLCJjb2x1bW5OYW1lIjoiQ3JlYXRlZE9uIn1dfX19LCJtb2RlbENvbmZpZyI6eyJkYXRhU291cmNlcyI6eyJQRFMiOnsiY29uZmlnIjp7ImF0dHJpYnV0ZXMiOnsiVXNyTmFtZSI6eyJwYXRoIjoiVXNyTmFtZSJ9LCJVc3JQcmljZVVTRCI6eyJwYXRoIjoiVXNyUHJpY2VVU0QifSwiVXNyQXJlYSI6eyJwYXRoIjoiVXNyQXJlYSJ9LCJVc3JUeXBlIjp7InBhdGgiOiJVc3JUeXBlIn0sIlVzck9mZmVyVHlwZSI6eyJwYXRoIjoiVXNyT2ZmZXJUeXBlIn0sIlVzck51bWJlciI6eyJwYXRoIjoiVXNyTnVtYmVyIn0sIkNyZWF0ZWRPbiI6eyJwYXRoIjoiQ3JlYXRlZE9uIn19fX19fX0sImxvY2FsaXphYmxlSW1hZ2VzIjp7fSwibG9jYWxpemFibGVTdHJpbmdzIjp7fX0="
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1682012511292+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "99d21524-ccad-45c1-998d-e9de6a6412af",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1682012511292+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "fd26b95c-06ba-4595-915e-bc5657d10842",
+          "Value": "null",
+          "DisplayValue": ""
+        }
+      ]
+    }
+  ]
+}

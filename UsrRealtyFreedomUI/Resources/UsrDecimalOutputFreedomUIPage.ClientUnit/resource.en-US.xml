@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Decimal Output FreedomUI Page" />
+			<Item Name="LocalizableStrings.Input_vqcnwfc_label.Value" Value="SQL Text" />
+			<Item Name="LocalizableStrings.NumberInput_tfc08lc_label.Value" Value="Average price, USD" />
+		</Items>
+	</Group>
+</Resources>

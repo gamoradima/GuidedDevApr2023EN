@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7eb42863-b58e-4da4-8899-912b7ba8e06a",
+    "Name": "UsrRealtyOfferTypeFreedomUI",
+    "ModifiedOnUtc": "\/Date(1682003604000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty offer type FreedomUI",
+    "DependsOn": []
+  }
+}

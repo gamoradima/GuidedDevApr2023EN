@@ -1,0 +1,23 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "7d772b9d-e783-4842-a84b-e8643934c367",
+      "A2": "UsrRealtyVisitFreedomUIBusinessRule",
+      "A5": "2d445756-a7bc-49c9-b8f5-ce9507582082",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "32f827c8-e7b8-49cb-bfca-146b525b8630",
+      "B8": "8.0.8.4758",
+      "AD1": "be5057a5-26f3-410f-99da-f0a44daa1ccf",
+      "AD2": "EntitySchemaManager",
+      "AD3": "BusinessRule",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "JI0": "Terrasoft.Core.BusinessRules.BusinessRules",
+        "BRS1": []
+      }
+    }
+  }
+}

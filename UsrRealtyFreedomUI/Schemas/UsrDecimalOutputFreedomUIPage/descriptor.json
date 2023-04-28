@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1c877a03-0937-4154-8853-ccc46f881051",
+    "Name": "UsrDecimalOutputFreedomUIPage",
+    "ModifiedOnUtc": "\/Date(1682349830000)\/",
+    "Parent": {
+      "UId": "27e1b215-163a-4b82-b0a6-9872a8dde6e4",
+      "Name": "PageWithTopAreaAndTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Decimal Output FreedomUI Page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,30 @@
+= MetaData.Schema.UId "686e9e76-f84a-4957-9624-a879fb62f3da"
+= MetaData.Schema.A2 "UsrDecimalOutputClassicPage"
+= MetaData.Schema.B6 "398b97eb-dfbf-42fa-220d-a770a29ed3e3"
+= MetaData.Schema.B8 "8.0.8.4758"
+= MetaData.Schema.HD1 "21620f25-166f-42f1-8b4d-224a959040a3"
+= MetaData.Schema.HD11.["c49bd85e-159a-49ee-b10a-3c3bca63d7d5"].L8.GS2 "{\"$type\":\"Terrasoft.Core.Process.LocalizableParameterValuesList, Terrasoft.Core\",\"$values\":[{\"ItemUId\":\"f073e66a-36ec-47d7-9c6a-e5952dbf05a3\",\"Id\":{\"value\":\"f073e66a-36ec-47d7-9c6a-e5952dbf05a3\"},\"Name\":{\"value\":\"Button-be6148b819154a0791eaee8f1635d859\"},\"Tag\":{\"value\":\"SaveData\"},\"Caption\":{\"isLczValue\":true},\"PerformClosePage\":{\"value\":\"True\"},\"PerformSaveData\":{\"value\":\"True\"},\"GenerateSignal\":{\"value\":\"\"}},{\"ItemUId\":\"c4841740-ff8c-406f-8626-1c78f78608bf\",\"Id\":{\"value\":\"c4841740-ff8c-406f-8626-1c78f78608bf\"},\"Name\":{\"value\":\"Button-3a8ac667899d4aa68021a07eb1c7c49c\"},\"Tag\":{\"value\":\"ClosePage\"},\"Caption\":{\"isLczValue\":true},\"PerformClosePage\":{\"value\":\"False\"},\"PerformSaveData\":{\"value\":\"False\"},\"GenerateSignal\":{\"value\":\"\"}}]}"
++ MetaData.Schema.HD11 {
+  "BL1": "Terrasoft.Core.ClientUnitSchemaParameter",
+  "UId": "9f6874a8-4878-4ed3-8f6c-b4557f714060",
+  "A2": "UsrFloat1",
+  "A3": "686e9e76-f84a-4957-9624-a879fb62f3da",
+  "A4": "686e9e76-f84a-4957-9624-a879fb62f3da",
+  "L1": "5cc8060d-6d10-4773-89fc-8c12d6f659a6",
+  "L8": {
+    "GS2": ""
+  }
+}
++ MetaData.Schema.HD11 {
+  "BL1": "Terrasoft.Core.ClientUnitSchemaParameter",
+  "UId": "d302727b-367a-44fb-a8b7-4c92a20010fa",
+  "A2": "UsrString1",
+  "A3": "686e9e76-f84a-4957-9624-a879fb62f3da",
+  "A4": "686e9e76-f84a-4957-9624-a879fb62f3da",
+  "L1": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "L8": {}
+}
+~ MetaData.Schema.HD11 ["c49bd85e-159a-49ee-b10a-3c3bca63d7d5","9f6874a8-4878-4ed3-8f6c-b4557f714060","d302727b-367a-44fb-a8b7-4c92a20010fa"]
+- MetaData.Schema.HD12
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Realty Classic&quot;" />
+			<Item Name="LocalizableStrings.UsrSchemac0e44837Detail4adb4543DetailCaptionOnPage.Value" Value="Об'єкт" />
+		</Items>
+	</Group>
+</Resources>

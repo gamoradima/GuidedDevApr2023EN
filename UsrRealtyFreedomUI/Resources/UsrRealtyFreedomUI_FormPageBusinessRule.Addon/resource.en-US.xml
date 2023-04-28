@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.8d30dc96-22d1-756e-9e86-1679922ab396.Caption" Value="Make elements required: Type" />
+			<Item Name="AddonConfig.Rules.ddd127b6-d884-2e0f-2ae9-d67c07ece824.Caption" Value="Make elements optional: Type" />
+			<Item Name="Caption" Value="Realty FreedomUI form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>
